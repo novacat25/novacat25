@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm NovaCat😼!  
 Nice to meet you.  
-This page would be uptaded often :) 
+This page would be uptaded often, and it seems to be necessary to be decorated :)  
 
 ### 🚀 I'm currently ...
 a Web developer, and also a junior Front-End engineer.  
@@ -10,7 +10,8 @@ a Web developer, and also a junior Front-End engineer.
 Japan  
 
 ### 🌱 I’m currently learning ... 
-Figma, for enhancing UI・UX skills and Web Design skills.  
+- Figma, for enhancing UI・UX skills and Web Design skills.
+- Markdown format. to write some documents on web, including this introducing file.
 
 ### 👯 I’m looking to collaborate on ...  
 Web design projects(HTML5, CSS, Figma, ETC), JS framework projects(Next.js,Nuxt), React, React-native projects, Vue projects  
