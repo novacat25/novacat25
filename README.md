@@ -4,7 +4,7 @@ Nice to meet you.
 This page would be uptaded often, and it seems to be necessary to be decorated :)  
 
 ### 🚀 I'm currently ...
-a Web developer, and also a junior Front-End engineer.  
+a Web developer, and also a junior Front-End engineer(2022.07-).  
 
 ### 🛠️ Skills...
 #### 💻 Primary Skills
@@ -15,7 +15,7 @@ a Web developer, and also a junior Front-End engineer.
 
 
 ### 🔭 I’m currently working on ... 
-Japan  
+Japan
 
 ### 🌱 I’m currently learning ... 
 - Figma, for enhancing UI・UX skills and Web Design skills.
