@@ -24,3 +24,7 @@ Japan
 
 ### 👯 I’m looking to collaborate on ...  
 Web design projects(HTML5, CSS, Figma, ETC), JS framework projects(Next.js,Nuxt), React, React-native projects, Vue projects  
+
+### The plan of 2025...
+To finish my WIP side-projects whether the result is good 😭
+(To get experiences full development cycles)
