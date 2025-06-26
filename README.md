@@ -3,6 +3,8 @@ I'm NovaCat😼!
 Nice to meet you.  
 This page would be uptaded often, and it seems to be necessary to be decorated :)  
 
+2025/05 - 2025/06: felt in a slump, and now almost overcame it!
+
 ### 🚀 I'm currently ...
 a Web developer, and also a Front-End engineer.  
 I started learning and studying Computer Science, Programming Languages when I was in a college.
@@ -31,3 +33,4 @@ Web design projects(HTML5, CSS, Figma, ETC), JS framework projects(Next.js,Nuxt)
 - To finish my WIP side-projects whether the result is good 😭
   (To get experiences full development cycles)
 - **Thinking output more important than inputs**(experiences & practices >= focusing on theories)
+
