@@ -4,7 +4,8 @@ Nice to meet you.
 This page would be uptaded often, and it seems to be necessary to be decorated :)  
 
 ### 🚀 I'm currently ...
-a Web developer, and also a junior Front-End engineer(2022.07-).  
+a Web developer, and also a Front-End engineer.  
+I started learning and studying Computer Science, Programming Languages when I was in a college.
 
 ### 🛠️ Skills...
 #### 💻 Primary Skills
@@ -19,12 +20,14 @@ Japan
 
 ### 🌱 I’m currently learning ... 
 - Figma, for enhancing UI・UX skills and Web Design skills.
-- Markdown format. to write some documents on web, including this introducing file.
-- HTML5 Professional Certification(Level.1, Level.2).  
+- HTML5 Professional Certification(Level.1, Level.2).
+- Not only FrontEnd skills, but also trying to learn BackEnd skills too - like Nest.js, or ETC.
+- Dart & Flutter
 
 ### 👯 I’m looking to collaborate on ...  
 Web design projects(HTML5, CSS, Figma, ETC), JS framework projects(Next.js,Nuxt), React, React-native projects, Vue projects  
 
 ### The plan of 2025...
-To finish my WIP side-projects whether the result is good 😭
-(To get experiences full development cycles)
+- To finish my WIP side-projects whether the result is good 😭
+  (To get experiences full development cycles)
+- **Thinking output more important than inputs**(experiences & practices >= focusing on theories)
